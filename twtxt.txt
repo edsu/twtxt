@@ -1,3 +1,5 @@
 2016-02-06T19:19:28.855813+00:00	just setting up my twtxt
 2016-02-06T19:33:19.839105+00:00	@ruebot it's kinda interesting that nicks are just local aliases for twtxt urls
 2016-02-06T19:51:37.056966+00:00	@ruebot did you add a post_tweet_hook like this? http://edsu.github.io/twtxt/config.txt
+2016-02-06T20:02:10.307177+00:00	trying to see how I can make git commit/push silently
+2016-02-06T20:03:54.442058+00:00	trying to see how I can make git commit/push silently
