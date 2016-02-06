@@ -1,7 +1,7 @@
 [twtxt]
 nick = edsu
 twtfile = /Users/ed/Projects/twtxt/twtxt.txt
-post_tweet_hook = "cd ~/Projects/twtxt; git commit -a --allow-empty-message -m ''; git push;"
+post_tweet_hook = "cd ~/Projects/twtxt; git commit -q -a --allow-empty-message -m ''; git push -q;"
 pager = less
 
 [following]
