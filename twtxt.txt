@@ -4,3 +4,4 @@
 2016-02-06T20:03:54.442058+00:00	trying to see how I can make git commit/push silently
 2016-02-06T20:08:58.219287+00:00	maybe -q will do the trick? http://edsu.github.io/twtxt/config.txt
 2016-02-06T20:09:57.954151+00:00	that seemed to work, yay .... uh yeah
+2016-02-06T20:11:13.684652+00:00	now I'm feeling guilty for having abandoned http://tilde.club/~edsu/
