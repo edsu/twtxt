@@ -9,4 +9,5 @@ check_following = True
 twtxt = https://buckket.org/twtxt_news.txt
 ruebot = http://ruebot.github.io/twtxt/twtxt.txt
 buckket = http://buckket.org/twtxt.txt
+cm_harlow = http://christinaharlow.com/assets/twtxt.txt
 
