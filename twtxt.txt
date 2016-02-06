@@ -1,1 +1,2 @@
 2016-02-06T19:19:28.855813+00:00	just setting up my twtxt
+2016-02-06T19:33:19.839105+00:00	@ruebot it's kinda interesting that nicks are just local aliases for twtxt urls
