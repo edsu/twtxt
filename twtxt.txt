@@ -7,4 +7,4 @@
 2016-02-06T20:11:13.684652+00:00	now I'm feeling guilty for having abandoned http://tilde.club/~edsu/
 2016-02-06T20:12:56.078574+00:00	@rubebot add a -q on the commit & push?
 2016-02-06T20:20:45.177858+00:00	it is interesting how the registries like http://twtxt.reednj.com/ are the things enforcing that nicks are unique
-2016-02-06T20:22:23.984133+00:00	makes sense ; I did this git config push.default simple
+2016-02-06T20:22:51.125929+00:00	@ruebot makes sense ; I did this git config push.default simple
