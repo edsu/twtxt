@@ -2,7 +2,8 @@
 nick = edsu
 twtfile = /Users/ed/Projects/twtxt/twtxt.txt
 post_tweet_hook = "cd ~/Projects/twtxt; git commit -q -a --allow-empty-message -m ''; git push -q;"
-pager = less
+use_pager = True
+check_following = True
 
 [following]
 twtxt = https://buckket.org/twtxt_news.txt
