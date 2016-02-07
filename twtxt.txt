@@ -12,3 +12,4 @@
 2016-02-06T20:27:11.501578+00:00	@ruebot I kinda wish the config was part of the twtxt file, so you could see who people are following
 2016-02-06T20:31:30.405596+00:00	@buckket did you consider having [following] in the twtxt file itself, so people could see who other people were following?
 2016-02-06T22:44:39.840460+00:00	@cm_harlow hey there!
+2016-02-07T09:51:31-05:00	trying out v1.1.0
