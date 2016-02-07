@@ -14,3 +14,4 @@
 2016-02-06T22:44:39.840460+00:00	@cm_harlow hey there!
 2016-02-07T09:51:31-05:00	trying out v1.1.0
 2016-02-07T09:53:31-05:00	added these aliases to my .profile to make sending/receiving a bit easier
+2016-02-07T09:54:13-05:00	oops I forgot the url in my last message https://gist.github.com/edsu/855230f4754d6d11844d
