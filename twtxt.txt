@@ -16,3 +16,4 @@
 2016-02-07T09:53:31-05:00	added these aliases to my .profile to make sending/receiving a bit easier
 2016-02-07T09:54:13-05:00	oops I forgot the url in my last message https://gist.github.com/edsu/855230f4754d6d11844d
 2016-02-07T15:09:38-05:00	this is starting to feel dumb
+2016-02-08T12:09:41-05:00	/me waves to @escowles https://escowles.github.io/tw.txt
